@@ -1,0 +1,21 @@
+---
+title: "Meet Our Team"
+---
+
+<div class="team-member">
+  ![](/img/murat.png){fig-align="center" width="150"}
+  **Dr. Murat Karakuş**   
+  Dr. Murat Karakuş is a leading researcher in machine learning and artificial intelligence, specializing in multimedia data processing. He has numerous publications in top-tier journals.
+</div>
+<hr>
+<div class="team-member">
+  ![](/img/rukiye.png){fig-align="center" width="150"}
+  **Dr. Rukiye Savran Kiziltepe**   
+  Dr. Rukiye Savran Kiziltepe focuses on Computer Vision and Natural Language Processing, with particular emphasis on Turkish language processing and sentiment analysis. She is actively involved in several interdisciplinary AI research projects.
+</div>
+<hr>
+<div class="team-member">
+  ![](/img/ercan.png){fig-align="center" width="150"}
+  **Dr. Ercan Ezin**   
+  Dr. Ercan Ezin specializes in the application of Recommender Systems and Large Language Models. He has a strong background in both academia and industry.
+</div>

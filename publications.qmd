@@ -1,0 +1,16 @@
+---
+title: "Publications"
+---
+
+
+## 2024
+ 
+### UPCOMING
+
+- Ezin, E., Savran Kiziltepe, R., & Karakus, M., 2024, 
+  [Using LLMs for Annotation and ML Methods for Comparative Analysis of Large-Scale Turkish Sentiment Datasets](https://www.ubmk.org.tr). 
+  In: **9th International Conference on Computer Science and Engineering ([UBMK 2024](https://www.ubmk.org.tr))**: Antalya, Türkiye.
+
+- Savran Kiziltepe, R., Ezin, E., & Karakus, M., 2024, 
+  [A Comparative Study of ML Models on Large-Scale Turkish Sentiment Datasets](http://asyu.inista.org/EN/index.html). 
+  In: **Innovations in Intelligent Systems and Applications Conference ([ASYU 2024](http://asyu.inista.org/EN/index.html))**: Ankara, Türkiye.
