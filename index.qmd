@@ -16,3 +16,18 @@ The **ANLAM Lab** is part of the Software Engineering Department at [Ankara Univ
 - Exploring applications in multimedia and domain-specific texts
 
 For those interested in collaborating or joining our lab, please get in touch via Contact Page.
+
+ 
+## Latest News
+
+<div class="news-announcement"> 
+  **28 Aug '24** – **ANLAM LAB** is BORN! Our team is excited to collaborate with industry leaders on a new project involving multimedia processing and sentiment analysis. Stay tuned for updates!
+</div>
+
+<div class="news-announcement"> 
+  **14 Aug '24** – It is with the greatest joy that we announce our second conference paper on Turkish NLP studies has been accepted for the [UBMK 2024 Conference](http://www.ubmk.org.tr/en/), which will be held in Antalya, Türkiye, between October 26-28, 2024!
+</div>
+
+<div class="news-announcement"> 
+  **22 Jul '24** – We successfully  submitted a new pape for [ASYU'24](http://asyu.inista.org/EN/index.html) conference! **Update:** The paper has been accepted. More info on [Publications Page](publications.qmd). See you at ASYU Conference in Gazi University, Ankara, Türkiye.
+</div>

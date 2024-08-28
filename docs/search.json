@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Advanced Natural Language and Multimedia Processing Lab",
     "section": "",
-    "text": "The ANLAM Lab is part of the Software Engineering Department at Ankara University , dedicated to advancing research in Natural Language Processing (NLP) and multimedia technologies. The lab was established in 2024 and focuses on cutting-edge AI research, particularly in NLP, multimedia processing, and their intersection. Our work spans various domains, with current projects including (in no particular order):\n\nEnhancing the adaptability of Large Language Models across diverse applications\nEvaluating the robustness and accuracy of NLP systems\nDeveloping novel language models and learning techniques for handling long and complex documents\nAdvancing multi-document and extreme multi-document NLP processing methods\nCreating reliable and efficient techniques for content generation and summarization\nExploring applications in multimedia and domain-specific texts\n\nFor those interested in collaborating or joining our lab, please get in touch via Contact Page."
+    "text": "The ANLAM Lab is part of the Software Engineering Department at Ankara University , dedicated to advancing research in Natural Language Processing (NLP) and multimedia technologies. The lab was established in 2024 and focuses on cutting-edge AI research, particularly in NLP, multimedia processing, and their intersection. Our work spans various domains, with current projects including (in no particular order):\nFor those interested in collaborating or joining our lab, please get in touch via Contact Page."
   },
   {
     "objectID": "about.html",
@@ -61,5 +61,12 @@
     "title": "About Us",
     "section": "",
     "text": "This page is currently under construction.\nPlease keep an eye on this space, as we will soon be sharing more detail about us.\nStay tuned for updates!"
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Advanced Natural Language and Multimedia Processing Lab",
+    "section": "Latest News",
+    "text": "Latest News\n\n28 Aug ’24 – ANLAM LAB is BORN! Our team is excited to collaborate with industry leaders on a new project involving multimedia processing and sentiment analysis. Stay tuned for updates!\n\n\n14 Aug ’24 – It is with the greatest joy that we announce our second conference paper on Turkish NLP studies has been accepted for the UBMK 2024 Conference, which will be held in Antalya, Türkiye, between October 26-28, 2024!\n\n\n22 Jul ’24 – We successfully submitted a new pape for ASYU’24 conference! Update: The paper has been accepted. More info on Publications Page. See you at ASYU Conference in Gazi University, Ankara, Türkiye."
   }
 ]
