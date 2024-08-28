@@ -7,7 +7,7 @@ title: "Contact Us"
 For any inquiries related to research collaborations, partnerships, or outreach, feel free to reach us at:  
 **Email**: [anlamlab@gmail.com](mailto:anlamlab@gmail.com)
 
-For website-related queries, please reach out to [Dr. Ercan Ezin](#team-page).
+For website-related queries, please reach out to [Dr. Ercan Ezin](team.qmd).
 
 ---
 
