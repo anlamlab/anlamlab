@@ -29,5 +29,5 @@ For those interested in collaborating or joining our lab, please get in touch vi
 </div>
 
 <div class="news-announcement"> 
-  **22 Jul '24** – We successfully  submitted a new pape for [ASYU'24](http://asyu.inista.org/EN/index.html) conference! **Update:** The paper has been accepted. More info on [Publications Page](publications.qmd). See you at ASYU Conference in Gazi University, Ankara, Türkiye.
+  **22 Jul '24** – We successfully  submitted a new paper to [ASYU'24](http://asyu.inista.org/EN/index.html) conference! **Update:** The paper has been accepted. More info on [Publications Page](publications.qmd). See you at ASYU Conference in Gazi University, Ankara, Türkiye.
 </div>
