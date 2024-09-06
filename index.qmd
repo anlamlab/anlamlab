@@ -21,6 +21,10 @@ For those interested in collaborating or joining our lab, please get in touch vi
 ## Latest News
 
 <div class="news-announcement"> 
+  **6 Sep '24** – Exciting news! ANLAM LAB has been awarded [Google Cloud research credits](https://edu.google.com/programs/credits/research/) to support our cutting-edge NLP studies. This generous grant will empower our team to leverage state-of-the-art cloud computing resources for our multimedia processing and sentiment analysis projects. We're thrilled about the possibilities this opens up for our research, including faster data processing, more complex model training, and the potential to tackle even more ambitious challenges in natural language understanding. Stay tuned for updates on how we're putting these credits to work in advancing the field of NLP!
+</div>
+
+<div class="news-announcement"> 
   **28 Aug '24** – **ANLAM LAB** is BORN! Our team is excited to collaborate with industry leaders on a new project involving multimedia processing and sentiment analysis. Stay tuned for updates!
 </div>
 
