@@ -98,7 +98,7 @@ Dr. Rukiye Savran Kiziltepe received her B.S. degree in Computer Education and I
 :::: {.team-member}
 ::: {.profile-section}
 ::: {.profile-image}
-![](/img/ercan.png)
+![](/img/ercan.jpg)
 :::
 ::: {.social-icons}
 [![](/img/email.png){.social-icon}](mailto:dr.ercan.ezin@gmail.com)
