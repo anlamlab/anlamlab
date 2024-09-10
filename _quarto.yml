@@ -3,6 +3,7 @@ project:
   output-dir: docs
 website:
   title: "ANLAM LAB"
+  favicon: /favicon.ico
   navbar:
     right:
       - href: index.qmd
@@ -18,7 +19,7 @@ website:
       - href: contact.qmd
         text: Contact
     logo: img/icon_no_bg_white.png
-    favicon: favicon.ico
+
 
 format:
   html:
