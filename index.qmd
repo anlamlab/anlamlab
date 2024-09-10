@@ -6,7 +6,7 @@ title: "Advanced Natural Language and Multimedia Processing Lab"
 
 
 
-The **ANLAM Lab** is part of the Software Engineering Department at [Ankara University](https://www.ankara.edu.tr)  , dedicated to advancing research in Natural Language Processing (NLP) and multimedia technologies. The lab was established in 2024 and focuses on cutting-edge AI research, particularly in NLP, multimedia processing, and their intersection. Our work spans various domains, with current projects including (in no particular order):
+The **A**dvanced **N**atural **LA**nguage and **M**ultimedia Processing **Lab** is part of the Software Engineering Department at [Ankara University](https://www.ankara.edu.tr)  , dedicated to advancing research in Natural Language Processing (NLP) and multimedia technologies. The lab was established in 2024 and focuses on cutting-edge AI research, particularly in NLP, multimedia processing, and their intersection. Our work spans various domains, with current projects including (in no particular order):
 
 - Enhancing the adaptability of Large Language Models across diverse applications
 - Evaluating the robustness and accuracy of NLP systems
