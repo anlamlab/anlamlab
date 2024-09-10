@@ -17,7 +17,8 @@ website:
         text: Datasets
       - href: contact.qmd
         text: Contact
-    logo: img/icon_no_bg_white.png 
+    logo: img/icon_no_bg_white.png
+    favicon: favicon.ico
 
 format:
   html:
