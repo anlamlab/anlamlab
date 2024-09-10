@@ -15,7 +15,7 @@ The **A**dvanced **N**atural **LA**nguage and **M**ultimedia Processing **Lab** 
 - Creating reliable and efficient techniques for content generation and summarization
 - Exploring applications in multimedia and domain-specific texts
 
-For those interested in collaborating or joining our lab, please get in touch via Contact Page.
+For those interested in collaborating or joining our lab, please get in touch via [Contact](contact.qmd) Page.
 
  
 ## Latest News
