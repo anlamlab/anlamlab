@@ -1,9 +1,14 @@
----
-title: "Decoding Meaning in the Digital Age"
+--- 
 ---
  
 
 ![](img/logo_no_bg.png){width=30% fig-align="center"}
+
+```{=html} 
+<div class="text-center">
+    <h1>"Decoding Meaning in the Digital Age"</h3>
+</div> 
+``` 
 
 ## Our Vision
 
