@@ -88,7 +88,7 @@ Murat Karakus received a B.S. degree in Mathematics from Suleyman Demirel Univer
 ::: {.member-info}
 ### Dr. Rukiye Savran Kiziltepe
 
-Rukiye Savran Kiziltepe received her B.S. degree in Computer Education and Instructional Technology from Hacettepe University, Türkiye, in 2014, followed by an M.S. in Advanced Computer Science (2017) and a Ph.D. in Computer Science (2022) from the University of Essex, UK. Her doctoral research focused on "Spatiotemporal features and deep learning methods for video classification". Currently, she is a faculty member in the Department of Software Engineering at Karadeniz Technical University, Türkiye. Dr. Savran Kiziltepe's research interests span Artificial Intelligence, Machine Learning, Computer Vision, and Natural Language Processing, with a particular focus on Turkish language processing and sentiment analysis. She actively contributes to interdisciplinary AI research projects, combining theoretical knowledge with practical applications in these fields.
+Rukiye Savran Kızıltepe received her BSc degree from Hacettepe University, Ankara, in 2014, and her MSc and PhD degrees from the School of Computer Science and Electronic Engineering at the University of Essex, Colchester, in 2017 and 2022, respectively. She is currently an Assistant Professor in the Department of Software Engineering at Karadeniz Technical University. Her research interests includes Artificial Intelligence, Machine Learning, Computer Vision, and Natural Language Processing. She actively engages in international and interdisciplinary AI projects, keen on applying theoretical knowledge to real-world challenges across diverse fields.
 
 :::
 ::::
