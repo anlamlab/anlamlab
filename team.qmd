@@ -76,7 +76,7 @@ Murat Karakus received a B.S. degree in Mathematics from Suleyman Demirel Univer
 :::: {.team-member}
 ::: {.profile-section}
 ::: {.profile-image}
-![](/img/rukiye.png)
+![](/img/rukiye2.jpg)
 :::
 ::: {.social-icons}
 [![](/img/email.png){.social-icon}](mailto:rukiye.savrankiziltepe@ktu.edu.tr)
