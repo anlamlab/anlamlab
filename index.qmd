@@ -26,7 +26,7 @@ For those interested in collaborating or joining our lab, please get in touch vi
     <li>Doç. Dr. Murat Karakus from Software Engineering, Ankara University</li>
     <li>Dr. Rukiye Savran Kızıltepe from Software Engineering, Karadeniz Technical University</li>
     <li>Dr. Ercan Ezin from Computer Engineering, Harran University</li>
-    <li>Dr. Arwa Mohmmed Basabrain from Computer Science, King Abdulaziz University</li>
+    <li>Dr. Arwa Mohmmed Basbrain from Computer Science, King Abdulaziz University</li>
   </ul>
 </div>
 
