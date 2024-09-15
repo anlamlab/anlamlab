@@ -1,8 +1,13 @@
 ---
 title: "Contact Us"
 ---
-
-## Get in Touch
+```{=html} 
+<style> 
+.navbar-logo {
+    max-height: 40px !important;
+} 
+</style> 
+```  
 
 For any inquiries related to research collaborations, partnerships, or outreach, feel free to reach us at:  
 **Email**: [anlamlab@gmail.com](mailto:anlamlab@gmail.com)

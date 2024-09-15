@@ -2,6 +2,13 @@
 title: "Publications"
 ---
 
+```{=html} 
+<style> 
+.navbar-logo {
+    max-height: 40px !important;
+} 
+</style> 
+```  
 
 ## 2024
  
