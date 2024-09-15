@@ -5,7 +5,7 @@ website:
   title: "ANLAM LAB"
   favicon: /favicon.ico
   page-footer:
-    center: "Advanced Natural Language and Multimedia Processing Lab, 2024 - Ankara University, Türkiye  Made with [Quarto](https://quarto.org/)"
+    center: "Advanced Natural Language and Multimedia Processing Lab, 2024 - Ankara University, Türkiye  - Made with [Quarto](https://quarto.org/) -" 
   navbar:
     right:
       - href: index.qmd
