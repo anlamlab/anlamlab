@@ -29,7 +29,7 @@ For those interested in collaborating or joining our lab, please get in touch vi
 <div class="news-announcement">
   **12 Sep '24**-We are pleased to announce that our research project has been awarded a funding by the Deanship of Scientific Research (DSR) at King Abdulaziz University under grant no. GPIP: 1789-612-2024.
   <ul>
-    <li>Assoc. Dr. Murat Karakus from Software Engineering, Ankara University</li>
+    <li>Assoc. Prof. Murat Karakus from Software Engineering, Ankara University</li>
     <li>Dr. Rukiye Savran Kızıltepe from Software Engineering, Karadeniz Technical University</li>
     <li>Dr. Ercan Ezin from Computer Engineering, Harran University</li>
     <li>Dr. Arwa Mohmmed Basbrain from Computer Science, King Abdulaziz University</li>
